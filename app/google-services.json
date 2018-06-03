@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "890134859780",
+    "firebase_url": "https://general-surgery-app.firebaseio.com",
+    "project_id": "general-surgery-app",
+    "storage_bucket": "general-surgery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890134859780:android:5ad8dce982d88282",
+        "android_client_info": {
+          "package_name": "edu.mcw.GeneralSurgery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890134859780-rk1lp9c3s3hjekt0rlhl4geijh56kct1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVSRMRAPGiekacC0orntNI52C1JJ15Uj8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

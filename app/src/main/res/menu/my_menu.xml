@@ -1,0 +1,29 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/menuSearchButton"
+        android:icon="@drawable/icon_search_white"
+        android:orderInCategory="100"
+        android:title="Search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menuFeedbackButton"
+        android:icon="@drawable/icon_feedback_white"
+        android:orderInCategory="100"
+        android:title="Feedback"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menuHomeButton"
+        android:icon="@drawable/icon_home_white"
+        android:orderInCategory="100"
+        android:title="Home"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menuSettingButton"
+        android:icon="@drawable/icon_settings_white"
+        android:orderInCategory="100"
+        android:title="Settings"
+        app:showAsAction="ifRoom" />
+</menu>
